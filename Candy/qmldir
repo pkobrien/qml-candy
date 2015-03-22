@@ -1,0 +1,6 @@
+module Candy
+singleton Actions 1.0 Actions.qml
+singleton Active 1.0 Active.qml
+singleton FontAwesome 1.0 fonts/FontAwesome430.qml
+singleton Settings 1.0 Settings.qml
+singleton Units 1.0 Units.qml
