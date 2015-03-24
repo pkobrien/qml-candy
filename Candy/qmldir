@@ -6,6 +6,7 @@ ApplicationWindow 1.0 ApplicationWindow.qml
 singleton FontAwesome 1.0 fonts/FontAwesome430.qml
 FontIconToolButton 1.0 FontIconToolButton.qml
 MenuBar 1.0 MenuBar.qml
+Object 1.0 Object.qml
 singleton Settings 1.0 Settings.qml
 StatusBar 1.0 StatusBar.qml
 ToolBar 1.0 ToolBar.qml
