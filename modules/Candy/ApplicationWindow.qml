@@ -8,8 +8,6 @@ ApplicationWindow {
 
     property var dp: App.Units.dp
 
-    visible: true
-
     Component.onCompleted: {
         App.Units.pixelDensity = Qt.binding(function() { return Screen.pixelDensity; });
     }
